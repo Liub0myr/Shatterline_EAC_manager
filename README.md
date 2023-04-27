@@ -6,7 +6,7 @@ Allows you to temporarily remove the anti-cheat or reinstall it
 
 
 # Fixes of errors
-## Error 3. Failed to automatically detect game location
+## Errors 1-3. Failed to automatically detect game location
 * Right click on Shatterline in your Steam library => Properties<br>
 * Go to the Local Files => Browse<br>
 * In the game folder, open the EasyAntiCheat folder<br>
